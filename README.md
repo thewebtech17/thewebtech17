@@ -1,5 +1,24 @@
-# About Me:
-I'm Currently Working As a Open Source Developer<br>I'm Looking To Collaborate on Full Stack Projects<br>I'm Currently Learning React.JS<br>Ask Me About : Frontend, Backend, Database & Testing 
+### <div align="center">Hey there 👋, I'm Nagendra Singh Shekhawat [nagendrasingh.tech](https://nagendrasingh-tech.netlify.app/)</div>  
+  
+
+<div align="center">
+<img src="https://i.pinimg.com/564x/61/9a/d8/619ad8cedaf4b639ef76531bf52e4e86.jpg" align="center" style="width: 100%" />
+</div>  
+  
+
+- 🔭 Currently a Open Source Developer at [Tublian](https://www.tublian.com/)  
+  
+
+- 🌱  Diving deep into Cloud Technologies (AZURE)  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- 🤝 Looking to collaborate on Project based on Next JS / React JS  
+  
+
+<br/>  
 
 
 ## 🌐 Socials:
