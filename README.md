@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/61/9a/d8/619ad8cedaf4b639ef76531bf52e4e86.jpg" align="center" style="width: 20%" />
+<img src="https://i.pinimg.com/564x/61/9a/d8/619ad8cedaf4b639ef76531bf52e4e86.jpg" align="center" style="width: 20%" style="mix-blend mode: multiply;"/>
 </div>  
   
 
